@@ -1,7 +1,25 @@
 body {
     font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+
+ul {
+    padding: 4px;
+    margin: 4px;
 }
 
 li {
-    background-color: lightpink;    
+        
+}
+
+h1 {
+    color: lightcoral;
+}
+
+.odd {
+    color: lightcoral;
+}
+
+.even {
+    color: rgb(0, 208, 255);
 }
